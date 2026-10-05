@@ -1,0 +1,27 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Maven
+.mvn/
+mvn-error.log
+
+# Gradle
+.gradle/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
