@@ -23,5 +23,19 @@ build/
 .DS_Store
 Thumbs.db
 
+# Antigravity Agent & Project Documentation
+docs/
+.agents/
+AGENTS.md
+
+# Node / Frontend
+node_modules/
+Client/node_modules/
+dist/
+Client/dist/
+Client/dist-ssr/
+*.local
+
 # Env
 .env
+.env.*.local
